@@ -78,7 +78,6 @@ func (head *Node) Length() int {
 }
 
 func RecursiveLength(node *Node) int {
-
 	if node == nil {
 		return 0
 	}

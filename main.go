@@ -2,7 +2,8 @@ package main
 
 import (
 	// l "datastructures/linked_list"
-	s "datastructures/stacks"
+	//	s "datastructures/stacks"
+	q "datastructures/queues"
 	"fmt"
 )
 
@@ -11,5 +12,6 @@ func main() {
 	fmt.Println()
 	// l.LinkedList()
 	// s.StackWithArray()
-	s.StackWithLinkedList()
+	//s.StackWithLinkedList()
+	q.SimpleQueueWithArray()
 }

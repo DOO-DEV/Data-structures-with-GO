@@ -84,4 +84,5 @@ func SimpleQueueWithArray() {
 	fmt.Println("After Dequeue")
 	queue.PrintQueue()
 	fmt.Printf("Size of the Queue is %d", queue.Size())
+
 }

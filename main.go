@@ -13,5 +13,6 @@ func main() {
 	// l.LinkedList()
 	// s.StackWithArray()
 	//s.StackWithLinkedList()
-	q.SimpleQueueWithArray()
+	// q.SimpleQueueWithArray()
+	q.SimpleQueueWithLinkeList()
 }
